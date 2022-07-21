@@ -1,0 +1,14 @@
+Date of admission: 20/07/2022 10:11:02
+Name : tejas r
+Address : pratian
+Contact Number : 678903323
+Age : 23
+Sex : male
+Blood Group : b+
+Any Major disease suffered earlier : acids
+Patient ID : 123
+
+********************************************************************
+
+
+Total Bill:11500.0
